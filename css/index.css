@@ -1,0 +1,41 @@
+*{
+    font-family: arial;
+}
+h3{
+    color:#AAAAAA;
+    font-weight: bold;
+    border-bottom: #AAAAAA solid 1px;
+    padding: 30px;
+    margin: 50px;
+}
+label{
+    font-weight: bold;
+    color: #333333;
+}
+h2{
+    color: #000000;
+    font-size: 24px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+p{
+    color:#AAAAAA;
+    font-weight: bold;
+    border-top: #AAAAAA solid 1px;
+    padding: 30px;
+    margin: 50px;
+}
+td{
+    line-height: 9rem;
+    border: white 50px solid;
+    border-left: none;
+    border-right: none;
+    padding: 0;
+    margin: 0;
+    
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+}
